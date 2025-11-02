@@ -5,7 +5,8 @@ Petite app Android qui consomme un service REST pour gérer des comptes bancaire
 
 ## Démo vidéo
 Voir la démo: 
-https://github.com/user-attachments/assets/828d47e6-566d-402a-8fa7-247a783f0ccb
+
+https://github.com/user-attachments/assets/a9fbb05a-9af2-4ac1-83bd-3539ba44fd17
 
 Astuce: remplacez le texte entre parenthèses par l’URL de votre vidéo (YouTube/Drive/etc.).
 
