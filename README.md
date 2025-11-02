@@ -4,7 +4,7 @@
 Petite app Android qui consomme un service REST pour gérer des comptes bancaires (CRUD) avec Retrofit + RecyclerView.
 
 ## Démo vidéo
-Voir la démo: [Lien vidéo à insérer ici]
+Voir la démo: https://github.com/user-attachments/assets/828d47e6-566d-402a-8fa7-247a783f0ccb
 
 Astuce: remplacez le texte entre parenthèses par l’URL de votre vidéo (YouTube/Drive/etc.).
 
