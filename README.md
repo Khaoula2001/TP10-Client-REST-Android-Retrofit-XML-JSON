@@ -8,7 +8,7 @@ Voir la démo:
 
 https://github.com/user-attachments/assets/a9fbb05a-9af2-4ac1-83bd-3539ba44fd17
 
-Astuce: remplacez le texte entre parenthèses par l’URL de votre vidéo (YouTube/Drive/etc.).
+
 
 ## ⚙️ Démarrage rapide
 1. Ouvrez le projet dans Android Studio.
